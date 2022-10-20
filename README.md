@@ -30,3 +30,6 @@
 
 ## Level 6 -> Level 7
 ![image](https://user-images.githubusercontent.com/88232976/196583900-4f7c033e-de58-47ac-972a-83f7bd6fd386.png)   
+![image](https://user-images.githubusercontent.com/88232976/196859171-beb08dfa-9d5f-4d36-8ef2-fecf26ced12c.png)
+
+ ## Level 7 -> Level 8
