@@ -42,4 +42,25 @@
 ![image](https://user-images.githubusercontent.com/88232976/196863983-e699ba33-bea4-4590-9683-e7e5ba7b6aec.png)
 ![image](https://user-images.githubusercontent.com/88232976/196869383-b64d5ad7-4ea1-49a7-98ea-0bc8dbd61a08.png)
 G7w8LIi6J3kTb8A7j9LgrywtEUlyyp6s
+## Level 10 -> Level 11
+![image](https://user-images.githubusercontent.com/88232976/197106298-0a2875c5-d485-45e7-bb7a-d184dd37adad.png)
+![image](https://user-images.githubusercontent.com/88232976/197106272-e742bcba-aa21-4de2-a9fb-662e8e595fbd.png)
+6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM
 
+## Level 11 -> Level 12
+![image](https://user-images.githubusercontent.com/88232976/197106451-6accb7cd-7e67-4478-9eb8-c003071c10f9.png)
+![image](https://user-images.githubusercontent.com/88232976/197126798-d21887f9-094e-48f9-9626-be43fcf344d4.png)
+``` python
+a=list(input())
+key=int(input())
+for i in range(len(a)):
+    if(ord(a[i])<91 and ord(a[i])>=65):
+        a[i]=chr(((ord(a[i])-65+key)%26)+65)
+    elif(ord(a[i])>=97 and ord(a[i])<=122):
+        a[i]=chr(((ord(a[i])-97+key)%26)+97)
+for i in a:
+    print(i,end="")
+```
+![image](https://user-images.githubusercontent.com/88232976/197127003-21bad180-05ff-4186-a0bc-4720d52b0524.png)
+
+## Level 12 -> Level 13
